@@ -1,0 +1,51 @@
+# Geotechnik — Herne
+
+> Geotechnical engineering services in Herne, Deutschland.
+
+## Services
+- [Anker](https://herne.geotechnik.sbs/anker/)
+- [Atterberg Grenzen](https://herne.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://herne.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://herne.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://herne.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://herne.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://herne.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://herne.geotechnik.sbs/cbr-strasse/)
+- [Cpt Versuch](https://herne.geotechnik.sbs/cpt-versuch/)
+- [Erdbebenisolierung](https://herne.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://herne.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://herne.geotechnik.sbs/fundamente/)
+- [Grundungen](https://herne.geotechnik.sbs/grundungen/)
+- [Hange](https://herne.geotechnik.sbs/hange/)
+- [In Situ Durchlassigkeit](https://herne.geotechnik.sbs/in-situ-durchlassigkeit/)
+- [Injektionen](https://herne.geotechnik.sbs/injektionen/)
+- [Korngrossenanalyse](https://herne.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://herne.geotechnik.sbs/labor/)
+- [Labor In Situ](https://herne.geotechnik.sbs/labor-in-situ/)
+- [Masw](https://herne.geotechnik.sbs/masw/)
+- [Pfahle](https://herne.geotechnik.sbs/pfahle/)
+- [Proctor Versuche](https://herne.geotechnik.sbs/proctor-versuche/)
+- [Ruttelverdichtung](https://herne.geotechnik.sbs/ruttelverdichtung/)
+- [Sandkegel Dichte](https://herne.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://herne.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://herne.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://herne.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://herne.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://herne.geotechnik.sbs/seismische-refraktion/)
+- [Spt Bohrung](https://herne.geotechnik.sbs/spt-bohrung/)
+- [Starrer Belag](https://herne.geotechnik.sbs/starrer-belag/)
+- [Strassenbau](https://herne.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://herne.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://herne.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://herne.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://herne.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://herne.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://herne.geotechnik.sbs/weichbodentunnel/)
+- [Widerstand](https://herne.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://herne.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Herne, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
